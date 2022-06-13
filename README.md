@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I am Pratik Devnani,  a graduate student at NC state with majors in Computer Science. I am a software developer, data scientist and machine learning engineer. I enjoy working as a back-end developer and I always strive to expand my knowledge base with each and every task that I work on.
+#### I am Pratik Devnani,  a graduate student at NC state with majors in Computer Science. I am a software developer, data scientist and machine learning engineer. I enjoy working as a back-end developer and I always strive to expand my knowledge base with each and every task that I work on.
 
 - 🌱 I’m currently learning Data Structures and Algorithms from Leetcode and AWS cloud practitioner course from Udemy for the certification program!.
 - 😄 Pronouns: He/Him
