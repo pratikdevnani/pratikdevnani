@@ -5,7 +5,7 @@ I am currently interning at CIPM where I have been tasked maintaining multiple d
 
 ### About me 👨‍💻
 - 🌱 I’m currently learning Data Structures and Algorithms from Leetcode and AWS cloud practitioner course from Udemy for the certification program!
-- 📍 Applications Developer and Data Science Intern @ CIPM, raleigh.
+- 📍 Working as an Applications Developer and Data Science Intern @ CIPM, raleigh.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love reading, watching movies, listening to music, watching tech videos and photography!
 - 📫 How to reach me: Email me at pratikdevnani24@gmail.com
