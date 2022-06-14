@@ -4,9 +4,10 @@ I am Pratik Devnani,  a graduate student at NC state with majors in Computer Sci
 I am currently interning at CIPM where I have been tasked maintaining multiple databases and linking them for different projects and websites that we develop! My subtask includes creating documentation for existing legacy database structure, creating a new and concise structures that can be accessed efficiently and linking these databases to our front-end solution.
 
 - 🌱 I’m currently learning Data Structures and Algorithms from Leetcode and AWS cloud practitioner course from Udemy for the certification program!
+- 🔭 Working as a Applications Developer and Data Science Intern @ CIPM.
 - 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love reading, watching movies, listening to music, watching tech videos and photography!
 - 📫 How to reach me: Email me at pratikdevnani24@gmail.com
-- 🔭 I’m currently working as a Applications Developer and Data Science Intern @ CIPM.
 <!--
 **pratikdevnani/pratikdevnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
