@@ -9,7 +9,26 @@ I am currently interning at CIPM where I have been tasked maintaining multiple d
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love reading, watching movies, listening to music, watching tech videos and photography!
 - 📫 How to reach me: Email me at pratikdevnani24@gmail.com
-  
+
+<table>
+<tr>
+<td>
+
+### Stats 🚀
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratikdevnani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+
+</td>
+<td>
+
+### Tech Stack 🛠️
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+</div>
+
+</td>
+</tr>
+<table>
 ### Stats 🚀
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratikdevnani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 
