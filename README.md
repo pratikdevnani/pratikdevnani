@@ -10,7 +10,6 @@ I am currently interning at CIPM where I have been tasked maintaining multiple d
 - ⚡ Fun fact: I love reading, watching movies, listening to music, watching tech videos and photography!
 - 📫 How to reach me: Email me at pratikdevnani24@gmail.com
   
-
 ### Stats 🚀
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratikdevnani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 
