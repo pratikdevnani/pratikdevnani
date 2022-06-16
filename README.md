@@ -49,16 +49,16 @@ I am currently interning at CIPM where I have been tasked maintaining multiple d
 ### Social 📱
 <p align='center'>
 <a href="https://www.linkedin.com/in/pratik-devnani-21a271170/">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg">
+    <img alt="LinkedIn" title="LinkedIn" height="40" width="40" src="assets/linkedin.svg">
 </a>
 <a href="mailto:pratikdevnani24@gmail.com">
-    <img alt="Gmail" title="Gmail" height="48" width="48" src="assets/gmail.svg">
+    <img alt="Gmail" title="Gmail" height="40" width="40" src="assets/gmail.svg">
 </a>
 <a href="https://twitter.com/PratikDevnani">
-    <img alt="Twitter" title="Twitter" height="48" width="48" src="assets/twitter.svg">
+    <img alt="Twitter" title="Twitter" height="40" width="40" src="assets/twitter.svg">
 </a>
 <a href="https://www.instagram.com/pratikdevnani24">
-    <img alt="Instagram" title="Instagram" height="48" width="48" src="assets/instagram.png">
+    <img alt="Instagram" title="Instagram" height="40" width="40" src="assets/instagram.png">
 </a>
 </p>
 <!--
