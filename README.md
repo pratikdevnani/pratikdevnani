@@ -48,20 +48,15 @@ I am currently interning at CIPM where I have been tasked maintaining multiple d
 </div>
 
 ### Social 📱
-<p align='center'>
-<a href="https://www.linkedin.com/in/pratik-devnani-21a271170/">
-    <img alt="LinkedIn" title="LinkedIn" height="40" width="40" src="assets/linkedin.svg">
-</a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:pratikdevnani24@gmail.com">
-    <img alt="Gmail" title="Gmail" height="40" width="40" src="assets/gmail.svg">
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/PratikDevnani">
-    <img alt="Twitter" title="Twitter" height="40" width="40" src="assets/twitter.svg">
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/pratikdevnani24">
-    <img alt="Instagram" title="Instagram" height="40" width="40" src="assets/instagram.png">
-</a>
+
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/pratik-devnani-21a271170/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:pratikdevnani24@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/PratikDevnani"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.instagram.com/pratikdevnani24"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
 </p>
+
 <!--
 **pratikdevnani/pratikdevnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
