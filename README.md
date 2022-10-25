@@ -1,11 +1,11 @@
 ### Hello World 👋
-I am Pratik Devnani,  a graduate student at NC state with majors in Computer Science. I am a software developer, data scientist and machine learning engineer. I enjoy working as a back-end developer and I always strive to expand my knowledge base with each and every task that I work on.
+I am Pratik Devnani,  a graduate student at NC state with majors in Computer Science. I am a software developer and I enjoy working as a back-end developer and in cloud technologies. I always strive to expand my knowledge base with each and every task that I work on.
 
 I am currently interning at CIPM where I have been tasked maintaining multiple databases and linking them for different projects and websites that we develop! My subtask includes creating documentation for existing legacy database structure, creating a new and concise structures that can be accessed efficiently and linking these databases to our front-end solution.
 
 ### About me 👨‍💻
-- 🌱 I’m currently grinding Leetcode and auditing the AWS cloud practitioner course from Udemy to attempt the cloud certification program!
-- 📍 Working as an Applications Developer and Data Science Intern @ CIPM, raleigh.
+- 🌱 I’m currently auditing the AWS cloud practitioner course and learning about Docker, Kubernetes and CI/CD!
+- 📍 Working as an Software Development Intern @ CIPM, raleigh.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love reading, watching movies, listening to music, watching tech videos and photography!
 - 📫 How to reach me: Email me at pratikdevnani24@gmail.com
