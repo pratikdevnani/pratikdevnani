@@ -4,7 +4,7 @@ I am Pratik Devnani,  a graduate student at NC state with majors in Computer Sci
 I am currently interning at NSF Center for Integrated Pest Management (CIPM) where I have been tasked with maintaining multiple databases and linking them for different projects and websites that we develop! My subtask includes creating a new and concise structures which are efficient and performance oriented, migrate data from the old structres to these new ones, create ingestion and validation pipelines for the data, write automation scripts for pulling in new data from forms, design of the new forms to suit our new data model and linking these databases to our front-end solution.
 
 ### About me 👨‍💻
-- 🌱 I’m currently auditing the AWS cloud practitioner course and learning about Docker, Kubernetes and CI/CD!
+- 🌱 I’m currently learning Docker, Kubernetes and CI/CD!
 - 📍 Working as an Software Development Intern @ CIPM, raleigh.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love reading, watching movies, listening to music, watching tech videos and photography!
