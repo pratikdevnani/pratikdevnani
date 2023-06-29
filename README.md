@@ -1,11 +1,11 @@
 ### Hello World 👋
-I am Pratik Devnani,  a graduate student at NC state with majors in Computer Science. I am a software developer and I enjoy working as a back-end developer and in cloud technologies. I always strive to expand my knowledge base with each and every task that I work on.
+I am Pratik Devnani, a graduate student at NC state with majors in Computer Science. I am a software developer and I enjoy working as a back-end developer and in cloud technologies. I always strive to expand my knowledge base with each and every task that I work on.
 
-I am currently interning at NSF Center for Integrated Pest Management (CIPM) where I have been tasked with maintaining multiple databases and linking them for different projects and websites that we develop! My subtask includes creating a new and concise structures which are efficient and performance oriented, migrate data from the old structres to these new ones, create ingestion and validation pipelines for the data, write automation scripts for pulling in new data from forms, design of the new forms to suit our new data model and linking these databases to our front-end solution.
+I am currently working at Yellowbrick Data as a Software Developer in Platform. My duties include managing legacy tools, creating system wide cloud based tools to facilitate testing and making CI/CD pipelines smoother!
 
 ### About me 👨‍💻
-- 🌱 I’m currently learning Docker, Kubernetes and CI/CD!
-- 📍 Working as an Software Development Intern @ CIPM, raleigh.
+- 🌱 I’m currently learning Docker, Kubernetes, Azure and CI/CD!
+- 📍 Working as an Software Developer, Platform Engineer @ Yellowbrick Data.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love reading, watching movies, listening to music, watching tech videos and photography!
 - 📫 How to reach me: Email me at pratikdevnani24@gmail.com
