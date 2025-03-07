@@ -1,13 +1,11 @@
 ### Hello World 👋
-I am Pratik Devnani, a graduate student at NC state with majors in Computer Science. I am a software developer and I enjoy working as a back-end developer and in cloud technologies. I always strive to expand my knowledge base with each and every task that I work on.
-
-I am currently working at Yellowbrick Data as a Software Developer in Platform. My duties include managing legacy tools, creating system wide cloud based tools to facilitate testing and making CI/CD pipelines smoother!
+I am Pratik Devnani, a software developer who enjoys working as a developer, loves reading, enjoys gaming and is a self-hosting and photography enthusiast.
 
 ### About me 👨‍💻
-- 🌱 I’m currently learning Docker, Kubernetes, Azure and CI/CD!
-- 📍 Working as an Software Developer, Platform Engineer @ Yellowbrick Data.
+- 🌱 I’m currently learning C++, cmake and maven!
+- 📍 Working as an Software Developer @ Yellowbrick Data.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love reading, watching movies, listening to music, watching tech videos and photography!
+- ⚡ Fun fact: I can write a for loop in assembly - I think!
 - 📫 How to reach me: Email me at pratikdevnani24@gmail.com
 
 ### Stats 🚀
